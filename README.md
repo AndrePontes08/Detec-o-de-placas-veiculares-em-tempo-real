@@ -29,7 +29,7 @@ Este projeto realiza a **detecção de placas veiculares em tempo real** a parti
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/ocr-placas-realtime.git
+git clone https://github.com/AndrePontes08/Placas-veiculares-em-tempo-real.git
 cd ocr-placas-realtime
 ```
 
