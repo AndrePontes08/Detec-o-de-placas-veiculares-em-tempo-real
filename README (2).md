@@ -112,6 +112,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## 📬 Contato
 
 Desenvolvido por **Andre Pontes Vaz de Medeiros Filho**  
-📧 andrepontesvazdemedeiros@gmail.com  
-📱 +55 83 99381-3616  
 🌐 [LinkedIn](https://www.linkedin.com/in/andre-pontes-vaz-de-medeiros-filho/)
